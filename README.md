@@ -1,16 +1,31 @@
-### Hi there 👋
+🖐 Hey there! I'm a software developer who's passionate about improving blockchain technology to make the world a better place.
+<hr/>
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
 
-<!--
-**AnkushinDaniil/AnkushinDaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkushinDaniil&theme=github-dark-dimmed&custom_title=My%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Here are some ideas to get you started:
+</td>
+<td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnkushinDaniil&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushinDaniil&theme=dark&layout=compact" alt="Top language used in my repos" />
+</div>
+
+
+</td>
+<td valign="top" width="50%">
+
+[![Daniil's github stats](https://github-readme-stats.vercel.app/api?username=AnkushinDaniil&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</tr>
+
+</table>
