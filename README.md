@@ -28,4 +28,10 @@
 </td>
 </tr>
 
+<td valign="top" width="50%">
+
+[![Daniil's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ankushin&theme=dark)](https://github.com/ankushin/leetcode-stats)
+
+</td>
+
 </table>
