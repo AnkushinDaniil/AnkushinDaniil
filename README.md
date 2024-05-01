@@ -1,4 +1,4 @@
-🖐 Hey there! I'm a software developer who's passionate about improving blockchain technology to make the world a better place.
+Hey there! I'm a software developer who's passionate about improving blockchain technology to make the world a better place.
 ## Contact Information
 - [My resume](https://ankushindaniil.github.io/resume/)
 - Email: ankushin.daniil42@gmail.com
