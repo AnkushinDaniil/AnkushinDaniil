@@ -1,7 +1,7 @@
 Hey there! I'm a software developer who's passionate about improving blockchain technology to make the world a better place.
 
 ## Contact Information
-- [My resume](https://ankushindaniil.github.io/resume/)
+- [My resume](https://drive.google.com/file/d/18Xi_Szz3Py96r8n0gfnfRmK-Kkc8_TnD/view?usp=sharing)
 - Email: ankushin.daniil42@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/daniil-ankushin/)
 - [Telegram](https://t.me/ankushin_d)
