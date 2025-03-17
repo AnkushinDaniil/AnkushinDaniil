@@ -4,7 +4,6 @@ Hey there! I'm a software developer who's passionate about improving blockchain 
 - Email: ankushin.daniil42@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/daniil-ankushin/)
 - [Telegram](https://t.me/ankushin_d)
-- [Leetcode](https://leetcode.com/ankushin/)
 <hr/>
 <table width="960px">
 <tr>
