@@ -1,7 +1,5 @@
-Hey there! I'm a software developer who's passionate about improving blockchain technology to make the world a better place.
-
 ## Contact Information
-- Email: ankushin.daniil42@gmail.com
+- ankushin.daniil42@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/daniil-ankushin/)
 - [Telegram](https://t.me/ankushin_d)
 <hr/>
@@ -32,11 +30,5 @@ Hey there! I'm a software developer who's passionate about improving blockchain 
 
 </td>
 </tr>
-
-<td valign="top" width="50%">
-
-[![Daniil's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ankushin&theme=dark)](https://github.com/ankushin/leetcode-stats)
-
-</td>
 
 </table>
