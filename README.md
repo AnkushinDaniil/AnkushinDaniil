@@ -2,6 +2,7 @@
 - ankushin.daniil42@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/daniil-ankushin/)
 - [Telegram](https://t.me/ankushin_d)
+- [Resume](https://drive.google.com/file/d/1ZLeU51x3IlGkNX8YqBfTTNH4oA35q1Rz/view?usp=sharing)
 <hr/>
 <table width="960px">
 <tr>
