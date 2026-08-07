@@ -1,44 +1,27 @@
 # Daniil Ankushin
 
-**Blockchain Infrastructure Engineer @ [Nethermind](https://nethermind.io)**
+**Ethereum core developer @ [Nethermind](https://nethermind.io)** — execution clients, EVM, consensus-critical code.
 
-Building Ethereum execution clients and Layer 2 infrastructure.
+## What I work on
 
----
+**Native Account Abstraction (Frame Transactions).** Implementing [EIP-8141](https://eips.ethereum.org/EIPS/eip-8141) (Frame Transaction), [EIP-8250](https://eips.ethereum.org/EIPS/eip-8250) (keyed nonces) and [EIP-8272](https://eips.ethereum.org/EIPS/eip-8272) (recent roots) in the Nethermind execution client. Implementation work surfaces gaps in the specs — payload layout, signature hashing, gas accounting, mempool rules — which I fix upstream in [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3AAnkushinDaniil+is%3Amerged).
 
-## Current Work
+**Nethermind execution client.** EVM gas policy, JSON-RPC correctness and bounds, snap sync, transaction pool, block access lists, networking hardening.
 
-Core contributor to Nethermind's blockchain infrastructure
+**Nethermind Arbitrum.** Lead contributor to the C# Arbitrum execution client: ArbOS multi-dimensional gas pricing, Stylus integration, and the differential-comparison test harness that proves the client matches reference Nitro.
 
-### Focus Areas
-- Arbitrum execution layer development
-- Ethereum client core development
-- L2 scalability and performance
+**Previously.** [Juno](https://github.com/NethermindEth/juno) StarkNet full node (JSON-RPC v0.6–v0.8, fee estimation), Flashbots order-flow-auction reference implementation, Monomer (Cosmos SDK chains as OP-Stack rollups).
 
-### Open Source
-- [nethermind-arbitrum](https://github.com/NethermindEth/nethermind-arbitrum) — Arbitrum plugin for Nethermind
-- [nethermind](https://github.com/NethermindEth/nethermind) — Ethereum execution client
+## Projects
 
----
+- [whitebox](https://github.com/AnkushinDaniil/whitebox) — Ethereum's execution layer made transparent: explorable explanations and a live Merkle-Patricia-Trie visualizer
+- [grove](https://github.com/AnkushinDaniil/grove) — tree-of-agents manager for AI coding CLIs, built on tmux and git worktrees
+- [noti](https://github.com/AnkushinDaniil/noti) — phone notifications for Claude Code, plus an MCP tool to answer its questions from your phone
 
-## Tech Stack
+## Stack
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=flat&logo=arbitrum&logoColor=white)
+C# / .NET · Go · Rust · Solidity · EVM internals · devp2p · RocksDB
 
----
+## Contact
 
-## Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnkushinDaniil&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniil-ankushin)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ankushin_d)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ankushin.daniil42@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://ankushindaniil.github.io/)
+[LinkedIn](https://linkedin.com/in/daniil-ankushin) · [X](https://x.com/Ankuinf) · [Telegram](https://t.me/ankushin_d) · ankushin.daniil42@gmail.com
