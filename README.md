@@ -4,7 +4,7 @@
 
 ## What I work on
 
-**Native Account Abstraction (Frame Transactions).** Implementing [EIP-8141](https://eips.ethereum.org/EIPS/eip-8141) (Frame Transaction), [EIP-8250](https://eips.ethereum.org/EIPS/eip-8250) (keyed nonces) and [EIP-8272](https://eips.ethereum.org/EIPS/eip-8272) (recent roots) in the Nethermind execution client. Implementation work surfaces gaps in the specs — payload layout, signature hashing, gas accounting, mempool rules — which I fix upstream in [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3AAnkushinDaniil+is%3Amerged).
+**Native Account Abstraction (Frame Transactions).** Implementing [EIP-8141](https://eips.ethereum.org/EIPS/eip-8141) (Frame Transaction), [EIP-8250](https://eips.ethereum.org/EIPS/eip-8250) (keyed nonces) and [EIP-8272](https://eips.ethereum.org/EIPS/eip-8272) (recent roots) in the Nethermind execution client. Implementation work surfaces gaps in the specs — payload layout, signature hashing, gas accounting, mempool rules — which I fix upstream in [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3AAnkushinDaniil+is%3Amerged). My own proposal: [ERC-8403](https://github.com/ethereum/ERCs/pull/1979) (Account Authority Lifecycle) — a unified add/rotate/revoke lifecycle for native-AA accounts.
 
 **Nethermind execution client.** EVM gas policy, JSON-RPC correctness and bounds, snap sync, transaction pool, block access lists, networking hardening.
 
