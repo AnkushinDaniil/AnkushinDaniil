@@ -1,6 +1,6 @@
 # Daniil Ankushin
 
-**Ethereum core developer @ [Nethermind](https://nethermind.io)** — execution clients, EVM, consensus-critical code.
+**Ethereum core developer @ [Nethermind](https://nethermind.io)** — execution clients, EVM, consensus-critical code. [Protocol Guild](https://protocol-guild.readthedocs.io) member.
 
 ## What I work on
 
@@ -8,7 +8,7 @@
 
 **Nethermind execution client.** EVM gas policy, JSON-RPC correctness and bounds, snap sync, transaction pool, block access lists, networking hardening.
 
-**Nethermind Arbitrum.** Lead contributor to the C# Arbitrum execution client: ArbOS multi-dimensional gas pricing, Stylus integration, and the differential-comparison test harness that proves the client matches reference Nitro.
+**Nethermind Arbitrum.** Core contributor and primary reviewer on the C# Arbitrum execution client: ArbOS multi-dimensional gas pricing, Stylus integration, and the differential-comparison test harness that proves the client matches reference Nitro.
 
 **Previously.** [Juno](https://github.com/NethermindEth/juno) StarkNet full node (JSON-RPC v0.6–v0.8, fee estimation), Flashbots order-flow-auction reference implementation, Monomer (Cosmos SDK chains as OP-Stack rollups).
 
